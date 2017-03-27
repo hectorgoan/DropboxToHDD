@@ -18,6 +18,6 @@
 	
 ## HOW-TO
 
-In the following [link](https://www.somosbinarios.es/sincronizar-carpetas-mac-os-x/) you'll find the instructions on how to customize the scripts for your needs (basically changing the folders) in spanish.
+In the following [link](https://www.somosbinarios.es/sincronizar-carpetas-mac-os-x/) you'll find the instructions on how to customize the scripts for your needs (basically changing the folders) in spanish. Hosted by [somosbinarios.es](https://www.somosbinarios.es/)
 
 
