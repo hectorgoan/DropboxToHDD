@@ -1,8 +1,8 @@
-#DropboxToHDD
+# DropboxToHDD
 
-###Keep your dropbox folder backed up in an HDD and vice-versa with this automator scripts
+### Keep your dropbox folder backed up in an HDD and vice-versa with this automator scripts
 
-##Contents
+## Contents
 
 * **DropBox->HD**
 
@@ -16,7 +16,7 @@
 	
 	This will update the dropbox folder.
 	
-##HOW-TO
+## HOW-TO
 
 In the following [link](https://www.somosbinarios.es/sincronizar-carpetas-mac-os-x/) you'll find the instructions on how to customize the scripts for your needs (basically changing the folders) in spanish.
 
